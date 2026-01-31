@@ -6,4 +6,4 @@ group by date_date
 order by date_date
 
 
-DENEME AMAÇLI EKLENEN METİNDİR.
+DENEME AMAÇLI EKLENEN METİNDİR. KADİR İMECİ
